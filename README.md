@@ -1,7 +1,18 @@
 <div id="header" align="center">
-    <img src="https://github.com/LucasGodoyPy/LucasGodoyPY/blob/383d3ac0ee61bebf765f6f9136097792a822f7be/me1.jpeg" width="200" class="avatar" />
+    <img src="https://github.com/LucasGodoyPy/LucasGodoyPY/blob/383d3ac0ee61bebf765f6f9136097792a822f7be/me1.jpeg" width="200"  />
     <h1 align="center">Hi 👋, I'm LucasGodoy</h1>
     <h3 align="center">A passionate fullstack web developer from Paraguay. I like python.</h3>
+   
+   <a href="https://youtube.com/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/midu.dev](https://instagram.com/godoy.lucas33?igshid=OGQ5ZDc2ODk2ZA==" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-godoy-a82901211" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
 </div>
 ---
 
@@ -29,12 +40,4 @@
       </div>
 </div>
 
----
 
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
