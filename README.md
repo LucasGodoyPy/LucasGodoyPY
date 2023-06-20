@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://github.com/LucasGodoyPy/LucasGodoyPY/blob/383d3ac0ee61bebf765f6f9136097792a822f7be/me1.jpeg" width="200" class="avatar" />
     <h1 align="center">Hi 👋, I'm LucasGodoy</h1>
     <h3 align="center">A passionate fullstack web developer from Paraguay. I like python.</h3>
 </div>
